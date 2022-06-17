@@ -1,0 +1,2 @@
+# salarypredictionuk
+wage
